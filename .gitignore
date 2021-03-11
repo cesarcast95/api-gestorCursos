@@ -1,0 +1,156 @@
+/modeloNegocio/db.sqlite3
+*.sqlite3
+
+# virtualenv
+
+venv/
+ENV/
+
+env/
+
+#cachess
+__pycache__
+api/roles/__pycache__
+api/__pycache__
+database/__pycache__
+api/roles/endpoints/__pycache__
+users/migrations/__pycache__
+
+
+*.sqlite3
+
+# virtualenv
+env/
+
+#cache
+database/__pycache__
+users/migrations/__pycache__
+persons/migrations/__pycache__/
+grupos/migrations/__pycache__/
+estudiantes/migrations/__pycache__/
+tondevelop
+
+#media
+media/
+media/*.pdf
+
+
+
+**/.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# C extensions
+*.so
+
+#media
+media/
+media/*.pdf
+
+
+
+# C extensions
+*.so
+
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+app.py
+settings.py
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+env/
+
+# Editors
+.idea/
+
+.vscode
+
+
+# Cache
+__pycache__
+api/roles/__pycache__
+api/__pycache__
+database/__pycache__
+api/roles/endpoints/__pycache__
+users/migrations/__pycache__
+/modeloNegocio/db.sqlite3
+users/migrations/__pycache__
+persons/migrations/__pycache__/
+relations/migrations/__pycache__/
+services/migrations/__pycache__/
+usuarios/__pycache__/
+programacion/__pycache__/
+cursos/__pycache__/
+modeloNegocio/__pycache__/
+grupos/migrations/__pycache__/
+cursos/migrations/__pycache__/
+programacion/migrations/__pycache__/
+django_impact/migrations/__pycache__/
+contenido_curso/migrations/__pycache__/
+contenido_curso/__pycache__/
+
+
+
+
+tondevelop
+*.sqlite3
+
+
+.vscode
+
+
+
+
